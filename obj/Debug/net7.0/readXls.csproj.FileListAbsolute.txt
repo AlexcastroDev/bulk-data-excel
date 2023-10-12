@@ -1,0 +1,17 @@
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/readXls
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/readXls.deps.json
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/readXls.runtimeconfig.json
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/readXls.dll
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/readXls.pdb
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/ExcelDataReader.dll
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.csproj.AssemblyReference.cache
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.AssemblyInfoInputs.cache
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.AssemblyInfo.cs
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.csproj.CoreCompileInputs.cache
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.csproj.CopyComplete
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.dll
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/refint/readXls.dll
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.pdb
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.genruntimeconfig.cache
+/Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/ref/readXls.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qoWzKDupxi80BNtqfuNDDKSdfynKcpRIbam0++TYJNpYYSAoganMUQAD6D8Gs/j/Y1sqoVQuyDXtdFRVhGbUNA==",
+  "success": true,
+  "projectFilePath": "/Users/alexcastrodev/labs/readXls/readXls.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexcastrodev/.nuget/packages/exceldatareader/3.6.0/exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
