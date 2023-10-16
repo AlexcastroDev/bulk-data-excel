@@ -15,3 +15,4 @@
 /Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.pdb
 /Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/readXls.genruntimeconfig.cache
 /Users/alexcastrodev/labs/readXls/obj/Debug/net7.0/ref/readXls.dll
+/Users/alexcastrodev/labs/readXls/bin/Debug/net7.0/MiniExcel.dll

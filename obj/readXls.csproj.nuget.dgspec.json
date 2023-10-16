@@ -41,6 +41,10 @@
             "ExcelDataReader": {
               "target": "Package",
               "version": "[3.6.0, )"
+            },
+            "MiniExcel": {
+              "target": "Package",
+              "version": "[1.31.2, )"
             }
           },
           "imports": [
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
         }
       }
     }

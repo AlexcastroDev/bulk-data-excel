@@ -14,6 +14,15 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "MiniExcel/1.31.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MiniExcel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MiniExcel.dll": {}
+        }
       }
     }
   },
@@ -40,11 +49,26 @@
         "lib/netstandard2.0/ExcelDataReader.pdb",
         "lib/netstandard2.0/ExcelDataReader.xml"
       ]
+    },
+    "MiniExcel/1.31.2": {
+      "sha512": "sL1/KSswZDRWiqGZTDZJb4UcEFk3aBhEY+rmOFeid9TrOIDKAL50zZgUkY2vGR6QAyksPKznDeah8ZIvgEnUjQ==",
+      "type": "package",
+      "path": "miniexcel/1.31.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net45/MiniExcel.dll",
+        "lib/netstandard2.0/MiniExcel.dll",
+        "miniexcel.1.31.2.nupkg.sha512",
+        "miniexcel.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ExcelDataReader >= 3.6.0"
+      "ExcelDataReader >= 3.6.0",
+      "MiniExcel >= 1.31.2"
     ]
   },
   "packageFolders": {
@@ -87,6 +111,10 @@
           "ExcelDataReader": {
             "target": "Package",
             "version": "[3.6.0, )"
+          },
+          "MiniExcel": {
+            "target": "Package",
+            "version": "[1.31.2, )"
           }
         },
         "imports": [
@@ -105,7 +133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }
